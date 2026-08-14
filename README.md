@@ -13,9 +13,9 @@ I specialize in tier-1, always-on systems, owning them end-to-end from architect
 
 ## 🎓 Education
 
-**University at Buffalo** — MS, Data Science | Dec 2020 – Apr 2022 | New York, USA
+**University at Buffalo** — MS, Data Science | New York, USA
 
-**Nitte University** — BS, Electronics & Communication | Aug 2013 – Jun 2017 | Bangalore, India
+**Nitte University** — BS, Electronics & Communication | Bangalore, India
 
 ## 🏢 Professional Experience
 
