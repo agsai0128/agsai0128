@@ -3,7 +3,7 @@
 Software engineer with 6+ years architecting cloud-native, event-driven microservices on **AWS** that run mission-critical operations at enterprise scale. I own systems end-to-end, from ambiguous business goals to production, that prevent tens of millions in operational losses, serve **20M+ transactions daily**, and cut engineering toil through automation and Gen-AI tooling. Currently a Software Engineer at Amazon, based in Seattle, WA.
 
 - 🔭 Deep expertise in distributed systems, serverless & streaming architectures, and Infrastructure as Code
-- 🤖 Building with **Gen-AI tooling** — MCP servers, agentic hooks, spec-driven development, LLM ops
+- 🤖 Building with **Gen-AI tooling** : MCP servers, agentic hooks, spec-driven development, LLM ops
 - ⚡ Bias for high-leverage initiatives, operational rigor, and raising the technical bar across the team
 - 📫 Reach me: agsai0128@gmail.com
 
@@ -37,11 +37,11 @@ I specialize in tier-1, always-on systems, owning them end-to-end from architect
 
 ## 🚀 Key Projects
 
-**Event-Driven Defect Detection** — Real-time service that flags mis-shipped items before they leave the facility. Event-driven architecture on AWS; prevents $45M/year in concessions.
+**Event-Driven Defect Detection** : Real-time service that flags mis-shipped items before they leave the facility. Event-driven architecture on AWS; prevents $45M/year in concessions.
 
-**Serverless ASRS Control Service** — Elastic Lambda/API Gateway/S3 service interfacing directly with warehouse hardware; cut per-item processing time 30% and lifted throughput 50%.
+**Serverless ASRS Control Service** : Elastic Lambda/API Gateway/S3 service interfacing directly with warehouse hardware; cut per-item processing time 30% and lifted throughput 50%.
 
-**Internal Gen-AI Developer Platform** — MCP servers exposing codebase, docs, and CI/CD context to AI agents, plus spec-driven development and agentic hooks embedded across 90% of the dev lifecycle.
+**Internal Gen-AI Developer Platform** : MCP servers exposing codebase, docs, and CI/CD context to AI agents, plus spec-driven development and agentic hooks embedded across 90% of the dev lifecycle.
 
 ## 🛠️ Skills
 
